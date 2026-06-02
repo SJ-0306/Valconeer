@@ -1,0 +1,232 @@
+{
+  "4944be427311ab455c56a7d063af0dcb643987b4-{}": {
+    "commits": [
+      {
+        "hash": "4944be427311ab455c56a7d063af0dcb643987b4",
+        "date": "2026-06-01T19:55:27-04:00",
+        "message": "yaml template file",
+        "refs": "HEAD -> main, origin/main, origin/HEAD",
+        "body": "",
+        "author_name": "SJ-0306",
+        "author_email": "swaminathanjag@gmail.com",
+        "diff": {
+          "changed": 1,
+          "deletions": 0,
+          "insertions": 6,
+          "files": [
+            {
+              "file": "ansible/inventory.template.yaml",
+              "changes": 6,
+              "insertions": 6,
+              "deletions": 0,
+              "binary": false
+            }
+          ]
+        }
+      },
+      {
+        "hash": "49e1b789102baafd1d7125670f61e44fe9326c84",
+        "date": "2026-06-01T19:51:59-04:00",
+        "message": "ignore",
+        "refs": "",
+        "body": "",
+        "author_name": "SJ-0306",
+        "author_email": "swaminathanjag@gmail.com",
+        "diff": {
+          "changed": 2,
+          "deletions": 51,
+          "insertions": 13,
+          "files": [
+            {
+              "file": ".gitignore",
+              "changes": 57,
+              "insertions": 12,
+              "deletions": 38,
+              "binary": false
+            },
+            {
+              "file": "ansible/inventory.yaml",
+              "changes": 7,
+              "insertions": 0,
+              "deletions": 7,
+              "binary": false
+            }
+          ]
+        }
+      },
+      {
+        "hash": "09f05fcca7c6d09bad2407e9eaaf6b43d4b1938f",
+        "date": "2026-06-01T19:46:05-04:00",
+        "message": "ansible inventory file",
+        "refs": "",
+        "body": "",
+        "author_name": "SJ-0306",
+        "author_email": "swaminathanjag@gmail.com",
+        "diff": {
+          "changed": 1,
+          "deletions": 0,
+          "insertions": 7,
+          "files": [
+            {
+              "file": "ansible/inventory.yaml",
+              "changes": 7,
+              "insertions": 7,
+              "deletions": 0,
+              "binary": false
+            }
+          ]
+        }
+      },
+      {
+        "hash": "a204a6721c23cdc6715320812f709e73964f41c0",
+        "date": "2026-06-01T18:39:57-04:00",
+        "message": "ansible deploy",
+        "refs": "",
+        "body": "",
+        "author_name": "SJ-0306",
+        "author_email": "swaminathanjag@gmail.com",
+        "diff": {
+          "changed": 2,
+          "deletions": 1,
+          "insertions": 1,
+          "files": [
+            {
+              "file": "ansible/bootstrap.yaml",
+              "changes": 1,
+              "insertions": 0,
+              "deletions": 1,
+              "binary": false
+            },
+            {
+              "file": "ansible/deploy.yaml",
+              "changes": 1,
+              "insertions": 1,
+              "deletions": 0,
+              "binary": false
+            }
+          ]
+        }
+      },
+      {
+        "hash": "fd9c9def9a3cdb93fb02e6d79b2c6df43ba83e3a",
+        "date": "2026-06-01T18:01:06-04:00",
+        "message": "Update README.md",
+        "refs": "",
+        "body": "",
+        "author_name": "Swaminathan Jagadeesan",
+        "author_email": "swaminathanjag@gmail.com",
+        "diff": {
+          "changed": 1,
+          "deletions": 1,
+          "insertions": 1,
+          "files": [
+            {
+              "file": "README.md",
+              "changes": 2,
+              "insertions": 1,
+              "deletions": 1,
+              "binary": false
+            }
+          ]
+        }
+      },
+      {
+        "hash": "3c2f3b86e46dd1ae7614cbf3efcea567f9daab37",
+        "date": "2026-06-01T17:47:10-04:00",
+        "message": "Create README.md",
+        "refs": "",
+        "body": "readme",
+        "author_name": "Swaminathan Jagadeesan",
+        "author_email": "swaminathanjag@gmail.com",
+        "diff": {
+          "changed": 1,
+          "deletions": 0,
+          "insertions": 27,
+          "files": [
+            {
+              "file": "README.md",
+              "changes": 27,
+              "insertions": 27,
+              "deletions": 0,
+              "binary": false
+            }
+          ]
+        }
+      },
+      {
+        "hash": "f18a9938586215b5f7e8f0b5243e23d9a192eb0c",
+        "date": "2026-06-01T17:31:31-04:00",
+        "message": "init",
+        "refs": "",
+        "body": "",
+        "author_name": "SJ-0306",
+        "author_email": "swaminathanjag@gmail.com",
+        "diff": {
+          "changed": 1,
+          "deletions": 0,
+          "insertions": 1,
+          "files": [
+            {
+              "file": "ansible/bootstrap.yaml",
+              "changes": 1,
+              "insertions": 1,
+              "deletions": 0,
+              "binary": false
+            }
+          ]
+        }
+      },
+      {
+        "hash": "f626fcd6ad3282f419a1127cc4891c40590a80ca",
+        "date": "2026-06-01T17:28:52-04:00",
+        "message": "Initial commit",
+        "refs": "",
+        "body": "",
+        "author_name": "Swaminathan Jagadeesan",
+        "author_email": "swaminathanjag@gmail.com",
+        "diff": {
+          "changed": 1,
+          "deletions": 0,
+          "insertions": 44,
+          "files": [
+            {
+              "file": ".gitignore",
+              "changes": 44,
+              "insertions": 44,
+              "deletions": 0,
+              "binary": false
+            }
+          ]
+        }
+      }
+    ],
+    "totalCommits": 8,
+    "branches": {
+      "all": [
+        "main",
+        "remotes/origin/main"
+      ],
+      "branches": {
+        "main": {
+          "current": true,
+          "linkedWorkTree": false,
+          "name": "main",
+          "commit": "4944be4",
+          "label": "yaml template file"
+        },
+        "remotes/origin/main": {
+          "current": false,
+          "linkedWorkTree": false,
+          "name": "remotes/origin/main",
+          "commit": "4944be4",
+          "label": "yaml template file"
+        }
+      },
+      "current": "main",
+      "detached": false
+    },
+    "tags": {
+      "all": []
+    }
+  }
+}
