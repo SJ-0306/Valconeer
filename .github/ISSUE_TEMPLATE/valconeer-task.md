@@ -32,12 +32,6 @@ assignees: ""
 - [ ] 
 - [ ] 
 
-## 🧪 Testing Steps
-<!-- How will you verify this works? -->
-1. 
-2. 
-3. 
-
 ## 🔗 Related Files
 <!-- Which files will change? -->
 - `path/to/file.nix`
