@@ -1,4 +1,4 @@
-# Valconeer
+# ValcoMed
 Hospital RBAC simulation with Vault, Falco, and containerized role isolation
 
 ## What this project does
