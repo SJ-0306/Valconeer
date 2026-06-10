@@ -2,7 +2,7 @@
 Hospital RBAC simulation with Vault, Falco, and containerized role isolation
 
 ## What this project does
-Valconeer orchestres a zero-trust, role-based access control system in a mock hospital setting. It simulates multiple user roles, each with diffrent containers, Vault policies, and Falco monitoring rules.
+ValcoMed orchestres a zero-trust, role-based access control system in a mock hospital setting. It simulates multiple user roles, each with diffrent containers, Vault policies, and Falco monitoring rules.
 
 The system enforces
 + Least Privelage
